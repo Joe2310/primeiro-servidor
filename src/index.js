@@ -14,7 +14,7 @@ let usuarios = [
 
 
 app.get('/',(req, res)=> {
-    res.send('Essa é minha rota principal')
+    res.send('Essa é minha rota principal.')
 
 })
 
